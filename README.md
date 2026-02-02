@@ -2,56 +2,89 @@
 
 <div align="center">
 
-A sophisticated, elegant, and professional focus companion designed to help you stay productive and accountable.
+A sophisticated, elegant, and professional focus companion designed to help you stay productive, focused, and accountable.
 
-🌐 **Live Demo**  
-👉 https://bhavith-fs.github.io/TaskNet/
+🌐 **Live Demo:**  
+👉 https://bhavith-fs.github.io/TaskNet
+
+🎯 **Focus:** Task Management • Focus Timer • Accountability • Distraction Awareness  
+
+![HTML](https://img.shields.io/badge/HTML5-Structure-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-Design-blue?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Logic-yellow?style=for-the-badge&logo=javascript&logoColor=black)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile%20Friendly-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-black?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚀 About TaskNest
+## 🎯 Overview
 
-**TaskNest** is a modern, browser-based productivity assistant that combines task management, focus tracking, accountability check-ins, and distraction awareness into a clean, premium user experience.  
-It is designed for students, developers, and professionals who want deep focus without clutter.
-
----
-
-## 🎯 Features
-
-### 🧠 Core Functionality
-- **Task Management** – Add, complete, and delete tasks with descriptions and assigned focus time  
-- **Focus Timer** – Professional circular progress timer with pause & resume  
-- **Accountability System** – Automated check-ins every 10 minutes during focus sessions  
-- **Distraction Awareness** – Detects tab switching and inactivity  
-- **Daily Progress Dashboard** – Tracks tasks completed, focus minutes, and productivity streaks  
-
-### 🎨 Design Excellence
-- **Professional Dark Theme** – Elegant dark interface with gold accents  
-- **Sophisticated Glassmorphism** – Subtle blur effects for depth  
-- **Premium Typography** – Clean *Inter* font with proper hierarchy  
-- **Elegant Animations** – Smooth entrance animations and micro-interactions  
-- **Professional Sound Design** – Subtle, non-intrusive audio feedback  
-- **Fully Responsive** – Optimized for both desktop and mobile  
+**TaskNest** is a modern productivity tool that helps users **manage tasks, maintain focus, and track progress** in a professional and elegant interface.  
+It emphasizes **minimalist design, accountability, and distraction awareness**, making it ideal for students, developers, and professionals seeking productivity improvement.
 
 ---
 
-## 🧪 Tech Stack
-- **HTML5** – Semantic structure  
-- **CSS3** – Glassmorphism, animations, and custom theming  
-- **Vanilla JavaScript** – Core application logic  
+## ✨ Key Features
+
+📝 **Task Management** – Add, complete, and delete tasks with descriptions and focus time  
+⏱️ **Focus Timer** – Circular professional timer with pause/resume support  
+📊 **Progress Dashboard** – Track tasks completed, focus minutes, and streaks  
+👀 **Distraction Awareness** – Detects tab switching and inactivity  
+🎓 **Accountability System** – Check-ins during focus sessions to maintain discipline  
+
+---
+
+## 🧠 How It Works
+
+1️⃣ User adds a task and sets focus time  
+2️⃣ TaskNest runs the **focus timer**  
+3️⃣ Every 10 minutes, the system checks user activity  
+4️⃣ Outputs **daily progress, streaks, and task completion stats**  
+
+---
+
+## 🛠 Tech Stack
+
+- **HTML5** – Semantic page structure  
+- **CSS3** – Glassmorphism, animations, custom theming  
+- **JavaScript (Vanilla)** – Core application logic  
 - **Font Awesome** – Iconography  
 - **Inter Font Family** – Typography  
 
 ---
 
-## ⚙️ Getting Started
+## 📁 Project Structure
 
-### ✅ Prerequisites
-- Modern web browser (Chrome, Firefox, Safari, Edge)  
-- No additional dependencies required  
+TaskNest/
+├── index.html       # Main HTML structure  
+├── style.css        # Styling, animations, and theme  
+├── script.js        # Application logic  
+└── README.md        # Documentation  
 
-### 📦 Installation
-```bash
-git clone https://github.com/yourusername/TaskNest.git
+---
+
+## 🚀 Future Enhancements
+
+🌐 **Web & Mobile Integration** – Progressive Web App support  
+🎵 **Advanced Sound & Animation** – Professional micro-interactions  
+📡 **Notifications & Reminders** – Email or push alerts for unfinished tasks  
+🤖 **AI-Powered Suggestions** – Smart task recommendations and focus analytics  
+
+---
+
+## 👤 Author
+
+**Bhavith Madhav**  
+Cybersecurity & Productivity Enthusiast  
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** – see the LICENSE file for details.
+
+---
+
+**TaskNest** — Where focus meets elegance. 🎯
