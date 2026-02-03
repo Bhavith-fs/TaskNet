@@ -2,7 +2,7 @@
 
 <div align="center">
 
-A sophisticated, elegant, and professional focus companion designed to help you stay productive, focused, and accountable.
+A sophisticated, elegant, and professional focus companion designed to help you stay productive, focused, and accountable. 
 
 🌐 **Live Demo:**  
 👉 https://bhavith-fs.github.io/TaskNet
