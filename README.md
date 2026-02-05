@@ -74,7 +74,7 @@ TaskNest/
 
 ---
 
-## 👤 Author
+## 👤 Developer
 
 **Bhavith Madhav**  
 Cybersecurity & Productivity Enthusiast  
